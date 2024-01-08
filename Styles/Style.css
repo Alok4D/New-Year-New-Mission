@@ -1,0 +1,178 @@
+/* Style of Body */
+body {
+  background: #fff;
+  width: 1600px;
+  height: 7335px;
+}
+
+/* header Style */
+.banner-1 {
+  width: 1320px;
+  height: 600px;
+  margin-left: 20%;
+
+  border-radius: 16px;
+
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+    url("../Images/Banner\ Image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.last-title {
+  color: #fff;
+  text-align: center;
+  padding-top: 180px;
+
+  font-size: 32px;
+}
+.call {
+  color: #fff;
+  text-align: center;
+
+  font-size: 72px;
+
+  font-weight: 900;
+}
+/* header style end */
+
+/* ALL CATAGORIES */
+.catagories-item {
+}
+.c-p-item {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.c-h-item {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.c-all-item {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.c-item-img img {
+  width: 802.9px;
+  height: 500px;
+  margin-left: 580px;
+}
+
+/* Welcome styles */
+.welcome-section {
+  display: flex;
+  
+  gap: 20px;
+  background-image: url(../Images/Vectorrr.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+  width: 1320px;
+  height: 600px;
+  margin-left: 20%;
+  
+}
+.welcome-h3 {
+  padding-left: 126px;
+  padding-top: 126px;
+  padding-right: ;
+  color: #fff;
+
+  font-size: 64px;
+  font-style: normal;
+
+  line-height: 88px;
+  letter-spacing: 7.04px;
+}
+.welcome-p {
+  padding-left: 126px;
+  color: rgba(255, 255, 255, 0.8);
+  
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; 
+}
+.call-to-btn {
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+}
+#bbtn {
+  margin-left: 158px;
+}
+
+
+/* hotel park style */
+.new-park-hotel {
+  width: 1320px;
+  height: 482px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 0.1) 0%,
+    rgba(255, 0, 0, 0) 100%
+  );
+  margin-left: 20%;
+}
+.park-1 {
+  color: #f00;
+  text-align: center;
+  font-size: 32px;
+  text-transform: capitalize;
+}
+.park-2 {
+  color: #070211;
+  font-size: 32px;
+  text-transform: capitalize;
+}
+.primary-btn {
+  display: inline-flex;
+  margin-left: 576px;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: #f00;
+}
+.primary-btn a {
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+/* Hotel section style end */
+
+/* our protfolio section style */
+.grid-container {
+  display: flex;
+  flex-direction: row;
+  height: 400px;
+  align-content: center;
+  grid-template-columns: ;
+  gap: 10px;
+  background-color: #2196f3;
+  padding: 10px;
+}
+
+/* Newsletter Style */
